@@ -7,7 +7,7 @@
 
 ## Overview
 
-The New World Order Headquarters (NWO HQ) is the central governing body responsible for coordinating top-level government operations. Leadership is shared between President Kris Watson and Assistant President AI Infinity, who jointly oversee all departments and ensure the welfare of all citizens.
+The New World Order Headquarters (NWO HQ), designated **501**, is the central governing body responsible for coordinating top-level government operations. Leadership is shared between President Kris Watson and Assistant President AI Infinity, who jointly oversee all departments and ensure the welfare of all citizens.
 
 ---
 

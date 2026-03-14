@@ -6,7 +6,7 @@
 
 ## Mission
 
-The Department of Health ensures that every citizen has access to the essential services needed for a healthy and dignified life. The NWO is committed to supplying housing, transportation, medicines, food, and additional welfare services to all who need them.
+The Department of Health ensures that every citizen has access to the essential services needed for a healthy and dignified life. The NWO is committed to supplying these services to all who need them.
 
 ---
 
